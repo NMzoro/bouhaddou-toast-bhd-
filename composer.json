@@ -1,0 +1,21 @@
+{
+  "name": "bouhaddou/toast-bhd",
+  "description": "A simple toast notification package for Laravel.",
+  "autoload": {
+    "psr-4": {
+      "Bouhaddou\\ToastBhd\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "illuminate/support": "^10.0"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/NMzoro/bouhaddou-toast-bhd"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
