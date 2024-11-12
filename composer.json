@@ -14,7 +14,7 @@
 "repositories": [
   {
     "type": "vcs",
-    "url": "https://github.com/NMzoro/bouhaddou-toast-bhd"
+    "url": "https://github.com/NMzoro/bouhaddou-toast-bhd-"
   }
 ],
 "minimum-stability": "dev",
