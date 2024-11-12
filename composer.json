@@ -16,6 +16,6 @@
       "url": "https://github.com/NMzoro/bouhaddou-toast-bhd"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true
 }
